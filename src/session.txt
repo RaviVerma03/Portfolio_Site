@@ -1,0 +1,5 @@
+Topics
+why we need to learn React?
+what is React?
+why we use strict mode
+use createElement to print a header
